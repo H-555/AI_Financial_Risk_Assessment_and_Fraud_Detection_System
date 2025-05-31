@@ -2,4 +2,3 @@ openai
 pyautogen
 pandas
 langchain-community
-json
